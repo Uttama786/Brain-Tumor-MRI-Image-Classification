@@ -4,7 +4,7 @@
 This project provides a deep learning-based solution for classifying brain MRI images into four categories: **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor**. It features a user-friendly Streamlit web application for uploading MRI images, visualizing predictions, and comparing the performance of multiple neural network architectures (Custom CNN, ResNet50, EfficientNet, and MobileNet).
 
 ## Data
-- **Download the dataset:** [Google Drive Link](https://drive.google.com/open?id=1DAyorv1mwSdblsM1N67erQpa3rjAJfgl&usp=drive_fs)
+- **Download the dataset:** [Google Drive Link]([https://drive.google.com/open?id=1DAyorv1mwSdblsM1N67erQpa3rjAJfgl&usp=drive_fs](https://drive.google.com/file/d/1DAyorv1mwSdblsM1N67erQpa3rjAJfgl/view?usp=sharing))
 - After downloading, extract the dataset and place it in the `data/` directory, preserving the folder structure:
   - `data/train/<class>/`
   - `data/valid/<class>/`
